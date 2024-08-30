@@ -1,0 +1,1 @@
+# GoLang_Save_in_KarfaOrMemoryOrFile
